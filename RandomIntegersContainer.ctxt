@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RandomIntegersContainer
+comment0.text=\n\ RandomIntegersContainer\ includes\ methods\ to\ manipulate\ a\ given\ array.\ The\ \n\ methods\ include\ adding\ a\ number\ to\ the\ back,front,\ and\ inputted\ position\n\ of\ the\ array.\ The\ true\ length\ of\ the\ array\ can\ also\ be\ requested.\ \n\n\ Christian\ Hollar\n\ 8/30/2020\n\ hollarc@lafayette.edu\n\ CS150\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=RandomIntegersContainer()
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ RandomIntegersContainer\n
+comment3.params=newB
+comment3.target=void\ addToBack(int)
+comment4.params=newF
+comment4.target=void\ addToFront(int)
+comment5.params=val\ pos
+comment5.target=boolean\ addAt(int,\ int)
+comment6.params=
+comment6.target=int\ numEntries()
+comment7.params=y
+comment7.target=int[]\ toArray(int)
+numComments=8

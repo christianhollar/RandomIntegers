@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ExperiementController
+comment0.text=\n\ Experiement\ Controller\ evaluates\ the\ runtime\ of\ the\ RandomIntegersContainer\ Class\n\ based\ upon\ parameters\ that\ have\ been\ randomly\ created.\n\ \n\ Christian\ Hollar\n\ 8/30/2020\n\ hollarc@lafayette.edu\n\ CS150\n
+comment1.params=
+comment1.target=ExperiementController()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ExperiementController\n
+comment2.params=numberOfItems\ seed
+comment2.target=long\ timeAddToFront(int,\ int)
+comment3.params=numberOfItems\ seed
+comment3.target=long\ timeAddtoBack(int,\ int)
+comment4.params=numberOfItems\ seed
+comment4.target=long\ timeAddAt(int,\ int)
+numComments=5
